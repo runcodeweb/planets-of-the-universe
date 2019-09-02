@@ -4,3 +4,8 @@ html {
   font: normal 100%/1.4 Helvetica, serif;
   background: pink;
 }
+
+.current {
+  background-color: #000531;
+  color: white;
+}
